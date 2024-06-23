@@ -1,0 +1,208 @@
+{
+
+    "questions":[{
+      "questionText": "What decorator is used to define an Angular component?",
+      "optionType":"singleSelect",
+      "options": [
+        {
+          "text": "@Component",
+          "correct": true
+        },
+        {
+          "text": "@NgModule"
+        },
+        {
+          "text": "@Injectable"
+        },
+        {
+          "text": "@Directive"
+        }
+      ],
+      "id": "c5ca"
+    },
+      {
+      "questionText": "How do you bind a property from the component to the template in Angular?",
+        "optionType":"singleSelect",
+      "options": [
+        {
+          "text": "{{ property }}"
+        },
+        {
+          "text": "[property]",
+          "correct": true
+        },
+        {
+          "text": "{{ bindProperty }}"
+        },
+        {
+          "text": "[bindProperty]"
+        }
+      ],
+      "id": "68bb"
+    },
+    {
+      "questionText": "How else can Array<number> be written in TypeScript?",
+        "optionType":"singleSelect",
+      "options": [
+        {
+          "text": "@number"
+        },
+        {
+          "text": "number[]",
+          "correct": true
+        },
+        {
+          "text": "number!"
+        },
+        {
+          "text": "number?"
+        }
+      ],
+      "id": "1eb8"
+    },
+    {
+      "questionText": "In which of these does a class take parameters?",
+        "optionType":"singleSelect",
+      "options": [
+        {
+          "text": "constructor",
+          "correct": true
+        },
+        {
+          "text": "destructor"
+        },
+        {
+          "text": "import"
+        },
+        {
+          "text": "subscribe"
+        }
+      ],
+      "id": "bc23"
+    },
+    {
+      "questionText": "Which keyword allows us to share information between files in TypeScript?",
+      "optionType":"singleSelect",
+      "options": [
+        {
+          "text": "import"
+        },
+        {
+          "text": "export",
+          "correct": true
+        },
+        {
+          "text": "async"
+        },
+        {
+          "text": "constructor"
+        }
+      ],
+      "id": "87d9"
+    },
+    {
+      "questionText": "Which command is used to create a new Angular project?",
+      "optionType":"singleSelect",
+      "options": [
+        {
+          "text": "ng new project-name",
+          "correct": true
+        },
+        {
+          "text": "ng create project-name"
+        },
+        {
+          "text": "angular new project-name"
+        },
+        {
+          "text": "create angular project-name"
+        }
+      ],
+      "id": "4b9f"
+    },
+    {
+      "questionText": "Which of the following are type used in TypeScript?",
+      "optionType":"multiSelect",
+      "options": [
+        {
+          "text": "number",
+          "correct": true
+        },
+        {
+          "text": "string",
+          "correct": true
+        },
+        {
+          "text": "boolean",
+          "correct": true
+        },
+        {
+          "text": "enum"
+        }
+      ],
+      "id": "2238"
+    },
+    {
+      "questionText": "In how many ways can CSS be written in?",
+      "optionType":"multiSelect",
+      "options": [
+        {
+          "text": "Outline CSS",
+          "correct": true
+        },
+        {
+          "text": "Internal CSS",
+          "correct": true
+        },
+        {
+          "text": "External CSS",
+          "correct": true
+        },
+        {
+          "text": "Inline CSS",
+          "correct": true
+        }
+      ],
+      "id": "a65b"
+    },
+    {
+      "questionText": "Which is NOT an access modifier?",
+        "optionType":"singleSelectDropDown",
+      "options": [
+        {
+          "text": "private"
+        },
+        {
+          "text": "protected"
+        },
+        {
+          "text": "public"
+        },
+        {
+          "text": "async",
+          "correct": true
+        }
+      ],
+      "id": "77e4"
+    },
+    {
+      "questionText": "Which is an array method to generate a new array based on a condition?",
+        "optionType":"singleSelectDropDown",
+      "options": [
+        {
+          "text": "enum"
+        },
+        {
+          "text": "map"
+        },
+        {
+          "text": "async"
+        },
+        {
+          "text": "filter",
+          "correct": true
+        }
+      ],
+      "id": "c33c"
+    }]
+    }
